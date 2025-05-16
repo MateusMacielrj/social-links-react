@@ -1,0 +1,28 @@
+.texto h2 {
+    color: white;
+    margin-top: 30px;
+    margin-left: 80px;
+    font-size: 20px;
+    background-color: #1F1F1F;
+}
+
+.texto h3{
+    color: #C4F82A;
+    margin-top: 3px;
+    margin-left: 85px;
+    font-size: 11px;
+    background-color: #1F1F1F;
+}
+
+.texto p {
+    color: white; 
+    font-size: 11px;
+    margin-left: 47px;
+    margin-top: 20px;
+    background-color: #1F1F1F;
+}
+
+.texto {
+    background-color: #1F1F1F;
+}
+
