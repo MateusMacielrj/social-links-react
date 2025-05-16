@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MateusMacielrj/social-links-react/static/css/main.b9875863.css",
-    "main.js": "/MateusMacielrj/social-links-react/static/js/main.adcd66eb.js",
-    "index.html": "/MateusMacielrj/social-links-react/index.html",
-    "main.b9875863.css.map": "/MateusMacielrj/social-links-react/static/css/main.b9875863.css.map",
-    "main.adcd66eb.js.map": "/MateusMacielrj/social-links-react/static/js/main.adcd66eb.js.map"
+    "main.css": "/social-links-react/static/css/main.b9875863.css",
+    "main.js": "/social-links-react/static/js/main.adcd66eb.js",
+    "index.html": "/social-links-react/index.html",
+    "main.b9875863.css.map": "/social-links-react/static/css/main.b9875863.css.map",
+    "main.adcd66eb.js.map": "/social-links-react/static/js/main.adcd66eb.js.map"
   },
   "entrypoints": [
     "static/css/main.b9875863.css",
